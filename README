@@ -1,0 +1,14 @@
+Specular Difference plugin for GIMP.
+
+This plugin allows specular light in a scene to be isolated by 
+subtracting an image filtered by a polariser from an unfiltered one. 
+More details can be found at:
+
+  http://registry.gimp.org/node/25020
+
+The plugin can be installed on a Linux system with gimptool utility.
+
+Copyright (C) 2011 - 2015 Paul Terry.
+
+This software is distributed under the GNU General Public License 
+version 3.
